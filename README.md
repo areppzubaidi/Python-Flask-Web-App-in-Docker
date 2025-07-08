@@ -84,14 +84,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Made with ❤️ by [Your Name](https://github.com/yourusername)
 
-```
-
----
-
-Let me know if you want:
-- A `.dockerignore` file  
-- CI/CD pipeline (GitHub Actions)  
-- Multi-stage Docker build for production  
-
-I'm happy to extend it further!
-```
